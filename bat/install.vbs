@@ -1,7 +1,7 @@
 Option Explicit
 On Error Resume Next
 '#┌──────────────────────────────────────
-'#│  Phasmophobia Hololive Texture Mod v1.0.0 (2021/12/24)
+'#│  Phasmophobia Kurune Kokuri Texture Mod v1.0.0 (2022/02/20)
 '#└──────────────────────────────────────
 '#==============================================================================
 Dim Conf
@@ -22,7 +22,7 @@ Call Conf.Add("BUILDID", "8181468")
 If GetLocale() = 1041 Then Call Conf.Add("JA", true) Else Call Conf.Add("JA", false)
 
 ' メッセージ
-Call Conf.Add("M_TITLE", "# Phasmophobia Hololive Texture Mod v1.0.0")
+Call Conf.Add("M_TITLE", "# Phasmophobia Kurune Kokuri Texture Mod v1.0.0")
 If Conf("JA") Then Call Conf.Add("M_START", "何かキーを押すとインストールします") Else Call Conf.Add("M_EXIT", "Press any key to install")
 If Conf("JA") Then Call Conf.Add("M_NOT_FOUND", "Phasmophobiaが見つかりませんでした。") Else Call Conf.Add("M_NOT_FOUND", "Phasmophobia not found")
 If Conf("JA") Then Call Conf.Add("M_NOT_BUILDID", "対応バージョンではありません。") Else Call Conf.Add("M_NOT_BUILDID", "Not a supported version.")
@@ -125,7 +125,7 @@ Function Main()
 	For Each f In Conf("ASSETS")
 
 		' バックアップがある場合はスキップ
-		If fso.FileExists(Conf("DATA_PATH") & f & ".org") Then
+		If fso.FileExists(Conf("DATA_PATH") & f & "." & Conf("BUILDID") & ".org") Then
 			WScript.Echo Conf("M_SKIP")
 			WScript.Echo "(" & f & "." & Conf("BUILDID") & ".org)"
 		Else
