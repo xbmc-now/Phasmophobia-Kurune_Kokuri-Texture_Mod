@@ -27,7 +27,7 @@ Change the texture file of Phasmophobia.
 まずPhasmophobiaのバージョンを確認してください。Phasmophobiaは頻繁にアップデートが行われるゲームです。  
 そのため、バージョンが違うとインストールできないようにしています。  
 バージョンが最新版と異なる場合は、対応するまで待ってください。  
-なお、一度インストールしても、アップデートが行われると標準の状態に戻されてしまいます。
+なお、一度インストールしても、アップデートが行われると標準の状態に戻されてしまいます。  
 First check the version of Phasmophobia. Phasmophobia is a game that is updated frequently.  
 Therefore, it cannot be installed if the version is different.  
 If the version is different from the latest version, please wait until it is supported.  
