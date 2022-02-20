@@ -19,7 +19,7 @@ Change the texture file of Phasmophobia.
 * [Steam Phasmophobia Builds heatmap](https://steamdb.info/app/739630/patchnotes/)
 
 # Releases
-
+* [Phasmophobia-Kurune_Kokuri-Texture_Mod Download](https://github.com/xbmc-now/Phasmophobia-Kurune_Kokuri-Texture_Mod/releases/tag/Phasmophobia-Kurune_Kokuri-Texture_Mod)
 
 
 # Installation
