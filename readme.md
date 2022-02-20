@@ -31,9 +31,9 @@ First check the version of Phasmophobia. Phasmophobia is a game that is updated 
 Phasmophobia will be killed if it is updated and the version of the texture file is different.  
 If the version is different from the latest version, please wait until it is supported.  
 
-batフォルダをダウンロードして、その中にあるinstall.vbsをダブルクリックしてください。  
+リリースファイルをダウンロードして、その中にあるinstall.vbsをダブルクリックしてください。  
 アンインスールはuninstall.vbsをダブルクリックしてください。  
-Download the bat folder and double-click install.vbs in it.  
+Download the release file and double-click install.vbs in it.  
 Double-click uninstall.vbs to uninstall.  
 
 steamクライアントのPhasmophobiaのプロパティを開き、「ゲームファイルの整合性を確認」をクリックすることでも、正規の状態に戻すことができます。  
