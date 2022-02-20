@@ -25,11 +25,13 @@ Change the texture file of Phasmophobia.
 # Installation
 
 まずPhasmophobiaのバージョンを確認してください。Phasmophobiaは頻繁にアップデートが行われるゲームです。  
-アップデートが行われ、テクスチャーファイルのバージョンが違うとPhasmophobiaは強制終了してしまいます。  
+そのため、バージョンが違うとインストールできないようにしています。
 バージョンが最新版と異なる場合は、対応するまで待ってください。  
+なお、一度インストールしても、アップデートが行われると標準の状態に戻されてしまいます。
 First check the version of Phasmophobia. Phasmophobia is a game that is updated frequently.  
-Phasmophobia will be killed if it is updated and the version of the texture file is different.  
-If the version is different from the latest version, please wait until it is supported.  
+Therefore, it cannot be installed if the version is different.
+If the version is different from the latest version, please wait until it is supported.
+Even if you install it once, it will be returned to the standard state when the update is performed.
 
 リリースファイルをダウンロードして、その中にあるinstall.vbsをダブルクリックしてください。  
 アンインスールはuninstall.vbsをダブルクリックしてください。  
