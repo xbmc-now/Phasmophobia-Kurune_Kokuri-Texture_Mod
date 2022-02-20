@@ -19,19 +19,19 @@ Change the texture file of Phasmophobia.
 * [Steam Phasmophobia Builds heatmap](https://steamdb.info/app/739630/patchnotes/)
 
 # Releases
-* [Phasmophobia-Kurune_Kokuri-Texture_Mod Download](https://github.com/xbmc-now/Phasmophobia-Kurune_Kokuri-Texture_Mod/releases/tag/Phasmophobia-Kurune_Kokuri-Texture_Mod)
 
+* [Phasmophobia-Kurune_Kokuri-Texture_Mod Download](https://github.com/xbmc-now/Phasmophobia-Kurune_Kokuri-Texture_Mod/releases/tag/Phasmophobia-Kurune_Kokuri-Texture_Mod)
 
 # Installation
 
 まずPhasmophobiaのバージョンを確認してください。Phasmophobiaは頻繁にアップデートが行われるゲームです。  
-そのため、バージョンが違うとインストールできないようにしています。
+そのため、バージョンが違うとインストールできないようにしています。  
 バージョンが最新版と異なる場合は、対応するまで待ってください。  
 なお、一度インストールしても、アップデートが行われると標準の状態に戻されてしまいます。
 First check the version of Phasmophobia. Phasmophobia is a game that is updated frequently.  
-Therefore, it cannot be installed if the version is different.
-If the version is different from the latest version, please wait until it is supported.
-Even if you install it once, it will be returned to the standard state when the update is performed.
+Therefore, it cannot be installed if the version is different.  
+If the version is different from the latest version, please wait until it is supported.  
+Even if you install it once, it will be returned to the standard state when the update is performed.  
 
 リリースファイルをダウンロードして、その中にあるinstall.vbsをダブルクリックしてください。  
 アンインスールはuninstall.vbsをダブルクリックしてください。  
