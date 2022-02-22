@@ -1,28 +1,28 @@
-# Name
+# –¼‘O / Name
 
-Phasmophobia Kurune Kokuri Texture Mod
+Phasmophobia —ˆ‰¹‚±‚­‚èƒeƒNƒXƒ`ƒƒ[Mod / Phasmophobia Kurune Kokuri Texture Mod
 
-# DEMO
+# ƒfƒ‚ / DEMO
 
 ![Ouija Board](src/OuijaBoard-sharedassets2.assets-1310.jpg)
+![Ouija Board](src/OuijaBoard-sharedassets2.assets-1310_2.jpg)
 ![MediumTruck01](src/MediumTruck01-sharedassets1.assets-316.jpg)
 ![Whiteboard_ao](src/Whiteboard_ao-sharedassets1.assets-352.jpg)
 
-# Features
+# Ğ‰î / Features
 
 Phasmophobia‚ÌƒeƒNƒXƒ`ƒƒ[ƒtƒ@ƒCƒ‹‚ğ•ÏX‚µ‚Ü‚·B  
 Change the texture file of Phasmophobia.  
 
-# Requirement
+# •K{ğŒ / Requirement
 
-* Phasmophobia BUILDID.8181468
-* [Steam Phasmophobia Builds heatmap](https://steamdb.info/app/739630/patchnotes/)
+* Phasmophobiaƒo[ƒWƒ‡ƒ“ BUILDID.8181468
+* [steam‚ÌPhasmophobiaƒo[ƒWƒ‡ƒ“—š—ğ / Steam Phasmophobia Builds heatmap](https://steamdb.info/app/739630/patchnotes/)
 
-# Releases
+# ƒŠƒŠ[ƒXƒtƒ@ƒCƒ‹ / Releases
+* [Phasmophobia —ˆ‰¹‚±‚­‚èƒeƒNƒXƒ`ƒƒ[Mod / Phasmophobia-Kurune_Kokuri-Texture_Mod Download](https://github.com/xbmc-now/Phasmophobia-Kurune_Kokuri-Texture_Mod/releases/tag/Phasmophobia-Kurune_Kokuri-Texture_Mod)
 
-* [Phasmophobia-Kurune_Kokuri-Texture_Mod Download](https://github.com/xbmc-now/Phasmophobia-Kurune_Kokuri-Texture_Mod/releases/tag/Phasmophobia-Kurune_Kokuri-Texture_Mod)
-
-# Installation
+# ƒCƒ“ƒXƒg[ƒ‹•û–@ / Installation
 
 ‚Ü‚¸Phasmophobia‚Ìƒo[ƒWƒ‡ƒ“‚ğŠm”F‚µ‚Ä‚­‚¾‚³‚¢BPhasmophobia‚Í•p”É‚ÉƒAƒbƒvƒf[ƒg‚ªs‚í‚ê‚éƒQ[ƒ€‚Å‚·B  
 ‚»‚Ì‚½‚ßAƒo[ƒWƒ‡ƒ“‚ªˆá‚¤‚ÆƒCƒ“ƒXƒg[ƒ‹‚Å‚«‚È‚¢‚æ‚¤‚É‚µ‚Ä‚¢‚Ü‚·B  
@@ -56,7 +56,7 @@ UABE(Unity Assets Bundle Extractor)‚Æ‚¢‚¤ƒc[ƒ‹‚Å•ÒW‚µ‚Ä‚¢‚Ü‚·‚ªAÀ‚Í‚±‚Ìƒc[ƒ
 I am editing with a tool called UABE (Unity Assets Bundle Extractor), but in fact, I can also generate an executable EXE that changes the texture with this tool.  
 However, at present, it is scary to distribute the execution EXE, so I try to replace the file.  
 
-# Author
+# ìÒ / Author
 
 * xbmc_now
 * [@xbmc_now](https://twitter.com/xbmc_now)
